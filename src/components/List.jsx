@@ -4,7 +4,7 @@ var ListItem = require('./ListItem.jsx');
 var ingredients = [
   {
     "id": 1,
-    "text":"ham"
+    "text":"Steak"
   },
   {
     "id": 2,
